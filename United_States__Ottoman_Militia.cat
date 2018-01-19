@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="5502-35c2-be19-7412" name="United States / Ottoman Militia" revision="3" battleScribeVersion="2.01" gameSystemId="66a2-155b-df88-f27f" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <profiles/>
+  <rules>
+    <rule id="2839-882c-7b06-0e13" name="Bladensburg Races" hidden="false">
+      <profiles/>
+      <rules/>
+      <infoLinks/>
+      <modifiers/>
+      <description>A US character can ignore the first wounding hit on a six or more; any hit they do receive will see the character retreat one inch per hit and directly away from the shooter. </description>
+    </rule>
+  </rules>
+  <infoLinks/>
+  <costTypes/>
+  <profileTypes/>
+  <categoryEntries/>
+  <forceEntries/>
+  <selectionEntries/>
+  <entryLinks/>
+  <sharedSelectionEntries/>
+  <sharedSelectionEntryGroups/>
+  <sharedRules/>
+  <sharedProfiles/>
+</catalogue>

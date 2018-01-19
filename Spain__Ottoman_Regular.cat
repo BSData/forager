@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="893b-59fd-02ea-843d" name="Spain / Ottoman Regular" revision="3" battleScribeVersion="2.01" gameSystemId="66a2-155b-df88-f27f" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <profiles/>
+  <rules>
+    <rule id="6b42-f917-b396-9c98" name="Muerte" hidden="false">
+      <profiles/>
+      <rules/>
+      <infoLinks/>
+      <modifiers/>
+      <description>Roll a D10 for each Character on a 6+ they gain + 1 Skill for the coming battle. If the character fails the roll they are at -1 skill. Spanish Characters on foot only move six inches per activation.</description>
+    </rule>
+  </rules>
+  <infoLinks/>
+  <costTypes/>
+  <profileTypes/>
+  <categoryEntries/>
+  <forceEntries/>
+  <selectionEntries/>
+  <entryLinks/>
+  <sharedSelectionEntries/>
+  <sharedSelectionEntryGroups/>
+  <sharedRules/>
+  <sharedProfiles/>
+</catalogue>

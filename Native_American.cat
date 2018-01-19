@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="2853-1ce5-c94c-45e6" name="Native American" revision="3" battleScribeVersion="2.01" gameSystemId="66a2-155b-df88-f27f" gameSystemRevision="2" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <profiles/>
+  <rules>
+    <rule id="95bb-2d18-2ebc-934a" name="War Cry" hidden="false">
+      <profiles/>
+      <rules/>
+      <infoLinks/>
+      <modifiers/>
+      <description>A character charged by a Native American Character must pass a Field Craft test requiring a six or more to be successful. A character who fails the test counts as distracted in the Combat. This effect is cumulative when the affected character is already distracted.</description>
+    </rule>
+  </rules>
+  <infoLinks/>
+  <costTypes/>
+  <profileTypes/>
+  <categoryEntries/>
+  <forceEntries/>
+  <selectionEntries/>
+  <entryLinks/>
+  <sharedSelectionEntries/>
+  <sharedSelectionEntryGroups/>
+  <sharedRules/>
+  <sharedProfiles/>
+</catalogue>
